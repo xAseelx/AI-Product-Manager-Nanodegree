@@ -60,4 +60,4 @@ By combining the power of AI with a deep understanding of software engineering w
 
 ## Contact
 
-If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com.
+If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: AseelAlKhdaidi@gmail.com.
