@@ -40,4 +40,4 @@ In the accompanying Proposal document, I discussed my design choices and the ste
 By creating a high-quality labeled dataset of chest X-ray images, I enabled machine learning engineers to build a classification system that could aid doctors in quickly identifying cases of pneumonia in children. This would be a valuable tool in improving patient outcomes and supporting medical professionals in their diagnosis and treatment process.
 
 ## Contact 
-If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com.
+If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: AseelAlKhdaidi@gmail.com.
