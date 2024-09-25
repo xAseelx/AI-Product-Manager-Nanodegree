@@ -38,14 +38,14 @@ The initial MVP of Stocky will offer the following core functionalities:
     Secure handling of user data with robust privacy controls.
 
 
-## User Interface Skechtes 
+## User Interface Prototype 
 - Home Page:
 ![Home Page]([https://github.com/user-attachments/assets/2af46a83-43dc-4a75-ad8a-ae24475e8e94](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Landing%20Page.png))
 
-- Generating diagram Page:
+- Services Page:
 ![Services Page]([https://github.com/user-attachments/assets/f663353a-0c7d-4592-b6ce-56ab6a194deb](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Services%20Page.png))
 
-- Result Page:
+- Trade Recommendation Page:
 ![Trade Recommendation Page]([https://github.com/user-attachments/assets/e687a76f-0968-410c-882f-a7ee12126e44](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Interaction%20Page.png))
 
 ## Post-MVP Deployment
