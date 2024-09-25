@@ -40,7 +40,7 @@ The initial MVP of Stocky will offer the following core functionalities:
 
 ## User Interface Prototype 
 - Home Page:
-![Home Image](https://github.com/xaseelx/ai-product-manager-nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/images/Landing%20Page.png?raw=true)
+![Home Image](https://github.com/xaseelx/ai-product-manager-nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Landing%20Page.png?raw=true)
 - Services Page:
 ![Services Page]([https://github.com/user-attachments/assets/f663353a-0c7d-4592-b6ce-56ab6a194deb](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Services%20Page.png))
 
