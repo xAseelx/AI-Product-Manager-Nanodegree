@@ -40,4 +40,4 @@ The dataset I used in this project was the [Kaggle Chest X-Ray Images (Pneumonia
 This project provided me with hands-on experience in building classification models using an AutoML platform (AWS Rekognition) and understanding the impact of various properties of the training data on model performance. By exploring different scenarios, I gained insights into how to develop robust and effective diagnostic tools for pneumonia detection.
 
 ## Contact 
-If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com.
+If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: AseelAlKhdaidi@gmail.com.
