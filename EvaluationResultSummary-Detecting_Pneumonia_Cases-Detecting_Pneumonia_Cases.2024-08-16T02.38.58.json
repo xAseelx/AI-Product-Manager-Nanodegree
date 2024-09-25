@@ -1,0 +1,62 @@
+{
+  "AggregatedEvaluationResults": {
+    "ConfusionMatrix": [
+      {
+        "GroundTruthLabel": "normal",
+        "PredictedLabel": "normal",
+        "Value": 0.9
+      },
+      {
+        "GroundTruthLabel": "normal",
+        "PredictedLabel": "pneumonia",
+        "Value": 0.1
+      },
+      {
+        "GroundTruthLabel": "pneumonia",
+        "PredictedLabel": "normal",
+        "Value": 0.0
+      },
+      {
+        "GroundTruthLabel": "pneumonia",
+        "PredictedLabel": "pneumonia",
+        "Value": 1.0
+      }
+    ],
+    "F1Score": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0
+  },
+  "EvaluationDetails": {
+    "EvaluationEndTimestamp": "2024-08-15T23:53:56.297102",
+    "Labels": [
+      "normal",
+      "pneumonia"
+    ],
+    "NumberOfTestingImages": 40,
+    "NumberOfTrainingImages": 158,
+    "ProjectVersionArn": "arn:aws:rekognition:us-east-1:206343405340:project/Detecting_Pneumonia_Cases/version/Detecting_Pneumonia_Cases.2024-08-16T02.38.58/1723765139615"
+  },
+  "LabelEvaluationResults": [
+    {
+      "Label": "normal",
+      "Metrics": {
+        "F1Score": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "Threshold": 0.16268
+      },
+      "NumberOfTestingImages": 20
+    },
+    {
+      "Label": "pneumonia",
+      "Metrics": {
+        "F1Score": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "Threshold": 0.97067
+      },
+      "NumberOfTestingImages": 20
+    }
+  ],
+  "Version": 1
+}

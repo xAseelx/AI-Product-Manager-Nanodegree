@@ -1,0 +1,62 @@
+{
+  "AggregatedEvaluationResults": {
+    "ConfusionMatrix": [
+      {
+        "GroundTruthLabel": "normal",
+        "PredictedLabel": "normal",
+        "Value": 0.7307692307692307
+      },
+      {
+        "GroundTruthLabel": "normal",
+        "PredictedLabel": "pneumonia",
+        "Value": 0.2692307692307692
+      },
+      {
+        "GroundTruthLabel": "pneumonia",
+        "PredictedLabel": "normal",
+        "Value": 0.0
+      },
+      {
+        "GroundTruthLabel": "pneumonia",
+        "PredictedLabel": "pneumonia",
+        "Value": 1.0
+      }
+    ],
+    "F1Score": 0.8864285714285713,
+    "Precision": 0.875,
+    "Recall": 0.9038461538461539
+  },
+  "EvaluationDetails": {
+    "EvaluationEndTimestamp": "2024-08-16T02:27:55.884366",
+    "Labels": [
+      "normal",
+      "pneumonia"
+    ],
+    "NumberOfTestingImages": 52,
+    "NumberOfTrainingImages": 208,
+    "ProjectVersionArn": "arn:aws:rekognition:us-east-1:206343405340:project/Dirty_Balanced/version/Dirty_Balanced.2024-08-16T05.15.46/1723774546618"
+  },
+  "LabelEvaluationResults": [
+    {
+      "Label": "pneumonia",
+      "Metrics": {
+        "F1Score": 0.8928571428571429,
+        "Precision": 0.8333333333333334,
+        "Recall": 0.9615384615384616,
+        "Threshold": 0.7297
+      },
+      "NumberOfTestingImages": 26
+    },
+    {
+      "Label": "normal",
+      "Metrics": {
+        "F1Score": 0.8799999999999999,
+        "Precision": 0.9166666666666666,
+        "Recall": 0.8461538461538461,
+        "Threshold": 0.23885
+      },
+      "NumberOfTestingImages": 26
+    }
+  ],
+  "Version": 1
+}
