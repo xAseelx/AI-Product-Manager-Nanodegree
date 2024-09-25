@@ -11,7 +11,7 @@ Success Metrics
 
 The success of the Stocky project will be measured by the following metrics:
 
-    Portfolio Return on Investment (ROI): The percentage gain or loss on the portfolio managed by the AI model over a specific period.
+Portfolio Return on Investment (ROI): The percentage gain or loss on the portfolio managed by the AI model over a specific period.
     Customer Retention Rate: The percentage of customers who continue using the AI investment service over time.
     Under Management (AUM) Growth: The increase in the total value of assets managed by the AI model.
     User Engagement Metrics: Measures of website-specific interactions, such as session duration and conversion rates.
@@ -20,7 +20,7 @@ The success of the Stocky project will be measured by the following metrics:
 
 The Stocky project will require a diverse dataset, including:
 
-    Market Data: Stock prices, trading volumes, and financial statements sourced from platforms like Bloomberg and Yahoo Finance.
+ Market Data: Stock prices, trading volumes, and financial statements sourced from platforms like Bloomberg and Yahoo Finance.
     News & Sentiment: Financial news and social media sentiment analysis.
     Economic Indicators: Macroeconomic data from government agencies and financial institutions.
 
@@ -32,7 +32,7 @@ Minimum Viable Product (MVP)
 
 The initial MVP of Stocky will offer the following core functionalities:
 
-    A user-friendly web interface for inputting financial data and investment parameters.
+ A user-friendly web interface for inputting financial data and investment parameters.
     Automatic generation of investment recommendations based on predictive analytics.
     Real-time updates and insights on market trends.
     Secure handling of user data with robust privacy controls.
@@ -40,19 +40,19 @@ The initial MVP of Stocky will offer the following core functionalities:
 
 ## User Interface Skechtes 
 - Home Page:
-![Home Page](https://github.com/user-attachments/assets/2af46a83-43dc-4a75-ad8a-ae24475e8e94)
+![Home Page]([https://github.com/user-attachments/assets/2af46a83-43dc-4a75-ad8a-ae24475e8e94](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Landing%20Page.png))
 
 - Generating diagram Page:
-![Services Page](https://github.com/user-attachments/assets/f663353a-0c7d-4592-b6ce-56ab6a194deb)
+![Services Page]([https://github.com/user-attachments/assets/f663353a-0c7d-4592-b6ce-56ab6a194deb](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Services%20Page.png))
 
 - Result Page:
-![Trade Recommendation Page](https://github.com/user-attachments/assets/e687a76f-0968-410c-882f-a7ee12126e44)
+![Trade Recommendation Page]([https://github.com/user-attachments/assets/e687a76f-0968-410c-882f-a7ee12126e44](https://github.com/xAseelx/AI-Product-Manager-Nanodegree/blob/Project-3-Creating-an-AI-Product-Business-Proposal/Interaction%20Page.png))
 
 ## Post-MVP Deployment
 
 After the initial launch of the MVP, the Stocky team will continuously monitor performance and user feedback to inform future iterations. Key responsibilities will include:
 
-    Ongoing Model Optimization: Regular updates and retraining of the AI model to enhance prediction accuracy and investment recommendation quality.
+Ongoing Model Optimization: Regular updates and retraining of the AI model to enhance prediction accuracy and investment recommendation quality.
     Implementation of Advanced Features: Development of features such as automated trading systems, personalized investment strategies, and integration with popular financial tools.
     Expansion of Supported Data Types: Increasing the variety of financial data sources and analytics capabilities to improve decision-making.
     Proactive Monitoring of Model Biases: Regular audits of the AI model to identify and mitigate biases, ensuring fair and equitable outcomes for all users.
