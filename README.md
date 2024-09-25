@@ -1,6 +1,6 @@
 # AI-Product-Manager-Nanodegree
 This repository contains the projects submitted as a part of NanoDegree program offered by Udacity for "AI Product Manager". </br>
-[Certification Document](https://github.com/xaseelx/ai-product-manager-nanodegree/raw/main/AI Product Manager Certificate.pdf) </br></br>
+[Certification Document](https://github.com/xaseelx/ai-product-manager-nanodegree/raw/main/AI%20Product%20Manager%20Certificate.pdf) </br></br>
 
 This Nanodegree included 3 projects which are:
 </br>
